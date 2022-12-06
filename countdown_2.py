@@ -9,7 +9,7 @@ import sys, time
 import sevseg 
 
 
-secondsLeft = 20
+secondsLeft = 30
 
 try:
     while True:
